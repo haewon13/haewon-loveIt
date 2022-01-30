@@ -4,7 +4,7 @@ theme = "LoveIt"
 # themesDir = "./themes/LoveIt"
 
 # website title
-title = "New Start"
+title = "Archives"
 
 # whether to use robots.txt
 enableRobotsTXT = true
